@@ -1,3 +1,5 @@
+**NOTE: 1.0 is mostly developed by hand with some help from ChatGPT, the new 1.1 is an "overhaul" made by ChatGPT to initial 1.0 code. The initial code is available on 1.0 release.**
+
 # FFX-Zanmato-Calcuator
 This is a Zanmato possibility calcuator for Final Fantasy X, did it as a hobby lol.
 
